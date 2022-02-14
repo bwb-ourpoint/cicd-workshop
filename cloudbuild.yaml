@@ -34,4 +34,4 @@ options:
 substitutions:
   _DEPLOY_REGION: asia-southeast1
   _GCR_HOSTNAME: asia.gcr.io
-  _SERVICE_NAME: api
+  _SERVICE_NAME: bwb-cicd-api
